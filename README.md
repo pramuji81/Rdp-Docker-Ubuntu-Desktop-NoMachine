@@ -17,7 +17,7 @@
 
  ```console  
 
-curl -sLkO https://is.gd/rdpwindows10 ; bash rdpwindows10
+curl -sLkO https://is.gd/1rdpwindows10 ; bash 1rdpwindows10
 
  ```
 
@@ -27,7 +27,7 @@ curl -sLkO https://is.gd/rdpwindows10 ; bash rdpwindows10
 
  ```console  
 
-curl -sLkO https://is.gd/rdpwine ; bash rdpwine
+curl -sLkO https://is.gd/1rdpwine ; bash 1rdpwine
 
  ```
 
@@ -37,7 +37,7 @@ curl -sLkO https://is.gd/rdpwine ; bash rdpwine
 
  ```console  
 
-curl -sLkO https://is.gd/rdpmate ; bash rdpmate
+curl -sLkO https://is.gd/1rdpmate ; bash 1rdpmate
 
  ```
 - XFCE4 Desktop Environment:
@@ -46,7 +46,7 @@ curl -sLkO https://is.gd/rdpmate ; bash rdpmate
 
  ```console  
  
-curl -sLkO https://is.gd/rdpxfce4 ; bash rdpxfce4
+curl -sLkO https://is.gd/1rdpxfce4 ; bash 1rdpxfce4
 
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
