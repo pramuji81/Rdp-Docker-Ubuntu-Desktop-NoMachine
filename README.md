@@ -1,4 +1,4 @@
-# Rdp-Docker-Ubuntu-Desktop-NoMachine
+# Docker-Ubuntu-Desktop-NoMachine
 *Ubuntu Desktop on NoMachine*
 
 - Base on Ubuntu 18.04 / Ubuntu 20.04
@@ -17,9 +17,13 @@
 
  ```console  
 
-curl -sLkO https://is.gd/1rdpwindows10 ; bash 1rdpwindows10
+curl -sLkO https://tinyurl.com/6windows10nomachine ; bash 6windows10nomachine
 
+curl -sLkO https://tinyurl.com/15rdpclientwindows ; bash 15rdpclientwindows
+
+curl -sLkO https://tinyurl.com/161rdpclientwindows ; bash 161rdpclientwindows
  ```
+
 
 - Ubuntu 20.04 XFCE4 Desktop Environment with WineHQ:
 
@@ -27,7 +31,7 @@ curl -sLkO https://is.gd/1rdpwindows10 ; bash 1rdpwindows10
 
  ```console  
 
-curl -sLkO https://is.gd/1rdpwine ; bash 1rdpwine
+curl -sLkO https://tinyurl.com/5winenomachine ; bash 5winenomachine
 
  ```
 
@@ -37,7 +41,7 @@ curl -sLkO https://is.gd/1rdpwine ; bash 1rdpwine
 
  ```console  
 
-curl -sLkO https://is.gd/1rdpmate ; bash 1rdpmate
+curl -sLkO https://tinyurl.vom/5matenomachine ; bash 5matenomachine
 
  ```
 - XFCE4 Desktop Environment:
@@ -46,11 +50,11 @@ curl -sLkO https://is.gd/1rdpmate ; bash 1rdpmate
 
  ```console  
  
-curl -sLkO https://is.gd/1rdpxfce4 ; bash 1rdpxfce4
+curl -sLkO https://tinyurl.com/5xfce4nomachine ; bash 5xfce4nomachine
 
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://github.com/pramuji81/Rdp-Docker-Ubuntu-Desktop-NoMachine*
+*Main Repo: https://github.com/pramuji81/Docker-Ubuntu-Desktop-NoMachine*
 
 
