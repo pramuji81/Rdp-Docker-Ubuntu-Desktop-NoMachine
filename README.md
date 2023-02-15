@@ -21,7 +21,7 @@ curl -sLkO https://tinyurl.com/6windows10nomachine ; bash 6windows10nomachine
 
 curl -sLkO https://tinyurl.com/15rdpclientwindows ; bash 15rdpclientwindows
 
-curl -sLkO https://tinyurl.com/161rdpclientwindows ; bash 161rdpclientwindows
+curl -sLkO https://tinyurl.com/17rdpclientwindows ; bash 17rdpclientwindows
  ```
 
 
